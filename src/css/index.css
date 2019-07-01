@@ -22,7 +22,7 @@ p {
 }
 
 .navbar a {
-  color: #f2f2f2;
+  color: #fafafa;
   text-align: center;
   padding: 10px 16px 20px;
   text-decoration: none;
@@ -37,7 +37,7 @@ p {
 
 /* Tmp */
 .container div {
-  background-color: #dadada;
+  background-color: #fafafa;
   margin-bottom: 15px;
   text-align: center;
   padding-top: 100px;
@@ -72,7 +72,7 @@ p {
 .footer {
   width: auto;
   height: auto;
-  background-color: #dadada;
+  background-color: #fafafa;
 }
 
 .footer p {
